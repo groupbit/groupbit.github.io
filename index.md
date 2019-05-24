@@ -2,7 +2,7 @@
 # Servicios
 # Clientes
 
-**Instituto N° 138**
+**ISFDyT  N° 138**
 
 ![logo](assets/images/logoEscuela.png)
 

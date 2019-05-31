@@ -8,6 +8,6 @@ Nuestro propósito es lograr satisfacer al cliente, para ello nos apoyamos en el
 
 **ISFDyT  N° 138**
 
-![logo](assets/images/logoEscuela.png)
+![logo](assets/images/logoEscuela.png) 
 
 # Contacto

@@ -5,6 +5,9 @@ Nuestro propósito es lograr satisfacer al cliente, para ello nos apoyamos en el
   
 # Servicios
 # Clientes
+**ISFDyT  N° 138**
+
+![logo](assets/images/logoEscuela.png)
 # Contacto
     
 **Email:** [groupbit.sarmiento@gmail.com](mailto:groupbit.sarmiento@gmail.com)  

@@ -4,19 +4,21 @@ Cinco egresados de la carrera de Tecnicatura Universitaria en Programación Info
 Nuestro propósito es lograr satisfacer al cliente, para ello nos apoyamos en el ***trabajo colaborativo e integral*** combinando nuestras herramientas tecnológicas para satisfacer las necesidades del cliente.
   
 # Servicios
-<i class="devicon-android-plain-wordmark colored"></i>
-<i class="devicon-apache-plain-wordmark colored"></i>
-<i class="devicon-bootstrap-plain-wordmark colored"></i>
-<i class="devicon-css3-plain-wordmark colored"></i>
-<i class="devicon-docker-plain-wordmark colored"></i>
-<i class="devicon-git-plain-wordmark colored"></i>
-<i class="devicon-github-plain-wordmark colored"></i>
-<i class="devicon-gitlab-plain-wordmark colored"></i>
-<i class="devicon-html5-plain-wordmark colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-java-plain-wordmark colored"></i>
-<i class="devicon-mysql-plain-wordmark colored"></i>
-<i class="devicon-tomcat-line-wordmark colored"></i>
+<p class="logoImage">
+    <i class="devicon-android-plain-wordmark colored"></i>
+    <i class="devicon-apache-plain-wordmark colored"></i>
+    <i class="devicon-bootstrap-plain-wordmark colored"></i>
+    <i class="devicon-css3-plain-wordmark colored"></i>
+    <i class="devicon-docker-plain-wordmark colored"></i>
+    <i class="devicon-git-plain-wordmark colored"></i>
+    <i class="devicon-github-plain-wordmark colored"></i>
+    <i class="devicon-gitlab-plain-wordmark colored"></i>
+    <i class="devicon-html5-plain-wordmark colored"></i>
+    <i class="devicon-javascript-plain colored"></i>
+    <i class="devicon-java-plain-wordmark colored"></i>
+    <i class="devicon-mysql-plain-wordmark colored"></i>
+    <i class="devicon-tomcat-line-wordmark colored"></i>
+</p>
 # Clientes
 # Contacto
     
